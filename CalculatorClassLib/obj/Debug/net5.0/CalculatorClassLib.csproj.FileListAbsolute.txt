@@ -1,0 +1,12 @@
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\bin\Debug\net5.0\CalculatorClassLib.deps.json
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\bin\Debug\net5.0\CalculatorClassLib.dll
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\bin\Debug\net5.0\ref\CalculatorClassLib.dll
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\bin\Debug\net5.0\CalculatorClassLib.pdb
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.csproj.AssemblyReference.cache
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.AssemblyInfoInputs.cache
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.AssemblyInfo.cs
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.csproj.CoreCompileInputs.cache
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.dll
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\ref\CalculatorClassLib.dll
+C:\Users\ADANMA\Desktop\Women Techsters\Backend\Calculator Task\CalculatorClassLib\obj\Debug\net5.0\CalculatorClassLib.pdb

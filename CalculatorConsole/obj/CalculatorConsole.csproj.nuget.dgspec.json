@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorConsole\\CalculatorConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorClassLib\\CalculatorClassLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorClassLib\\CalculatorClassLib.csproj",
+        "projectName": "CalculatorClassLib",
+        "projectPath": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorClassLib\\CalculatorClassLib.csproj",
+        "packagesPath": "C:\\Users\\ADANMA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorClassLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADANMA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorConsole\\CalculatorConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorConsole\\CalculatorConsole.csproj",
+        "projectName": "CalculatorConsole",
+        "projectPath": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorConsole\\CalculatorConsole.csproj",
+        "packagesPath": "C:\\Users\\ADANMA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADANMA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorClassLib\\CalculatorClassLib.csproj": {
+                "projectPath": "C:\\Users\\ADANMA\\Desktop\\Women Techsters\\Backend\\Calculator Task\\CalculatorClassLib\\CalculatorClassLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
